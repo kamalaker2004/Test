@@ -1,4 +1,8 @@
 firstbranch testing
 ndksmndks 
 khkgfhkg
+<<<<<<< HEAD
 change in master
+=======
+kjjkbhgdjukfb
+>>>>>>> firstbranch
